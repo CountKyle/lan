@@ -10,7 +10,8 @@ Games list:
 - Call of Duty World at War
 - Ashes of a Singularity
 - Killing Floor 2
-- Dead by daylight (free on Epic)
+- Unreal Tournament https://www.epicgames.com/unrealtournament/en-US/#splash
+- Dead by daylight 
 
 Optional Extras:
 
